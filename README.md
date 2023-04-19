@@ -52,3 +52,4 @@ then
 ## settings.json VS Code
 
 - Change as you prefer
+- Prettier is easily configured as the default formatter (and on save)
