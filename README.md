@@ -52,7 +52,3 @@ then
 ## settings.json VS Code
 
 - Change as you prefer
-
-## Storybook
-
-- Soon
